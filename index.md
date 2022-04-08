@@ -17,7 +17,7 @@ I can offer coaching for mathematics for standardized tests including the follow
 
 I can also offer coaching for **SAT Reading** and **ACT Math, English, and Science**.
 
-# Math and Other Subject Support
+## Math and Other Subject Support
 
 I specialize in subject tutoring, with experience in the following subjects:
 - Algebra I
