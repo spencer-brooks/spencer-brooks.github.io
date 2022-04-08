@@ -6,21 +6,21 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 I am an experienced teacher and tutor with a focus on mathematics. My background is in teaching and curriculum development for 6th-12th grade and college math, and I have two years of remote teaching and tutoring experience.
 
 I can offer coaching for mathematics for standardized tests including the following:
-- SAT
-- ACT
+- **SAT**
+- **ACT**
 - GRE
 - GMAT
 - High school entrance exams
 
-I can also offer coaching for SAT Reading and ACT Math, English, and Science.
+I can also offer coaching for **SAT Reading** and **ACT Math, English, and Science**.
 
 I specialize in subject tutoring, with experience in the following subjects:
 - Algebra I
 - Geometry
 - Algebra II
 - Precalculus
-- AP Calculus (AB and BC)
-- AP Statistics
+- **AP Calculus (AB and BC)**
+- **AP Statistics**
 - Multivariable Calculus
 - Linear Algebra
 - Discrete Mathematics
