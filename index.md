@@ -1,7 +1,7 @@
 # Spencer Brooks, Tutor
 Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 
-![Spencer Brooks](./assets/img/spencer_brooks_port.jpg)
+![Spencer Brooks](./assets/img/spencer_brooks_portait.jpg)
 
 I am an experienced teacher and tutor with a focus on mathematics. My background is in teaching and curriculum development for 6th-12th grade and college math, and I have two years of remote teaching and tutoring experience.
 
