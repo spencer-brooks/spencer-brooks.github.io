@@ -4,7 +4,7 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 
 ![Spencer Brooks](./assets/img/spencer_brooks_portrait.png)
 
-Are you signed up for the June SAT, June ACT, or July ACT? I still have tutoring openings for May 2022 in these subjects! You can get in touch at my email above.
+Are you signed up for the June SAT, June ACT, or July ACT? I still have tutoring openings in  May 2022 for exam preparation for these exams! You can get in touch at my email above.
 
 I am an experienced teacher and tutor with a focus on mathematics. My background is in teaching and curriculum development for 6th-12th grade and college math, and I have two years of remote teaching and tutoring experience.
 
