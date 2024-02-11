@@ -2,7 +2,9 @@
 
 Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 
-![Spencer Brooks](./assets/img/spencer_brooks_portrait.png)
+<p align="center">
+  <img src="./assets/img/spencer_brooks_portrait.png"/>
+</p>
 
 I am a high school and middle school teacher and tutor with nearly 1,500 hours of face-to-face work with students. My background includes teaching undergraduate-level math and teaching and curriculum development for middle and high school math and English. I have over seven semesters of remote teaching and tutoring experience. I hold a B.A. in mathematics from Williams College, where I was the recipient of the Wyskiel Mathematics Teaching Award and a Williams Archives History Research Fellowship.
 
