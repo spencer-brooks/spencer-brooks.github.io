@@ -6,7 +6,7 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
   <img src="./assets/img/spencer_brooks_portrait.png"/>
 </p>
 
-I am a high school and middle school teacher and tutor with nearly 1,500 hours of face-to-face work with students. My background includes teaching undergraduate-level math and teaching and curriculum development for middle and high school math and English. I have over seven semesters of remote teaching and tutoring experience. I hold a B.A. in mathematics from Williams College, where I was the recipient of the Wyskiel Mathematics Teaching Award and a Williams Archives History Research Fellowship.
+I am a high school and middle school teacher and tutor with nearly 1,500 hours of face-to-face work with students. My background includes teaching undergraduate-level math and teaching and curriculum development for middle and high school math, reading, and writing. I have over seven semesters of remote teaching and tutoring experience. I hold a B.A. in mathematics from Williams College, where I was the recipient of the Wyskiel Mathematics Teaching Award and a Williams Archives History Research Fellowship.
 
 ## Standardized Test Prep
 I have hundreds of hours of experience coaching for standardized tests including the following:
@@ -27,6 +27,7 @@ I have hundreds of combined hours of experience coaching the following subjects 
 I have over one hundred hours of experience coaching for the following types of competitions. My students have gone on to place at the local, regional, and state level in a variety of competitions.
 - Math competitions (e.g. AMC 8/10/12)
 - Essay composition competitions (e.g. National History Day)
+- Spelling bees
 - Chess (ages 4 to adult, beginner and tournament players)
 
 Please inquire for rates and availability for spring and summer 2024.
