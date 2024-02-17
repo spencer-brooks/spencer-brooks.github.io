@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Spencer Brooks
 ---
 
 # Mathematics and Test Preparation Tutoring
