@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Mathematics and Test Preparation Tutoring
 
 Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
