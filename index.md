@@ -1,6 +1,4 @@
-# Spencer Brooks
-
-## Mathematics and Test Preparation Tutor
+# Mathematics and Test Preparation Tutoring
 
 Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 
