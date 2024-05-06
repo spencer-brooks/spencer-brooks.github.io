@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Spencer Brooks
+last-modified: 2024-05-06
 ---
 
 # Mathematics and Test Preparation Tutoring
@@ -11,17 +12,19 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
   <img src="./assets/img/spencer_brooks_portrait.png"/>
 </p>
 
-I am a high school and middle school teacher and tutor with nearly 1,500 hours of face-to-face work with students. My background includes teaching undergraduate-level math and teaching and curriculum development for middle and high school math, reading, and writing. I have over seven semesters of remote teaching and tutoring experience. I hold a B.A. in mathematics from Williams College, where I was the recipient of the Wyskiel Mathematics Teaching Award and a Williams Archives History Research Fellowship.
+_I am currently accepting new students for Summer 2024 (May-August). Please contact me by email if you would like to inquire!_
+
+I am a high school and middle school teacher and tutor with nearly 1,500 hours of face-to-face work with students. My background includes teaching undergraduate-level math and teaching and curriculum development for middle and high school math, reading, and writing. I have over four years of remote teaching and tutoring experience. I hold a B.A. in mathematics from Williams College, where I was the recipient of the Wyskiel Mathematics Teaching Award and a Williams Archives History Research Fellowship.
 
 ## Standardized Test Prep
 I have hundreds of hours of experience coaching for standardized tests including the following:
-- College admissions tests: SAT and ACT
+- College admissions tests: SAT and ACT, with extensive experience on the **new digital SAT**
 - High school entrance exams (ISEE, SSAT, HSPT, Chicago Public Schools HSAT)
 
 My students have gone on to attend numerous selective high schools, colleges, and universities.
 
 ## Curricular Subject Support
-I have hundreds of combined hours of experience coaching the following subjects at the middle, high school, and college level:
+I have hundreds of combined hours of experience coaching the following subjects at the middle school, high school, and college level:
 - Algebra I, Geometry, Algebra II, Precalculus, Calculus (including AP Calculus, AB and BC), AP Statistics, Multivariable Calculus, Linear Algebra, and Discrete Mathematics
 - Physics (including AP)
 - History and English writing (including AP History and English)
