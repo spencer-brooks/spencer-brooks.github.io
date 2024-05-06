@@ -11,13 +11,13 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
   <img src="./assets/img/spencer_brooks_portrait.png"/>
 </p>
 
-_I am currently accepting new students for Summer 2024 (May-August). Please contact me by email if you would like to inquire!_
+_I am currently accepting new students for Summer 2024 (May-August). Please contact me by email if you would like to inquire about tutoring for the summer or any future term._
 
-I am a high school and middle school teacher and tutor with nearly 1,500 hours of face-to-face work with students. My background includes teaching undergraduate-level math and teaching and curriculum development for middle and high school math, reading, and writing. I have over four years of remote teaching and tutoring experience. I hold a B.A. in mathematics from Williams College, where I was the recipient of the Wyskiel Mathematics Teaching Award and a Williams Archives History Research Fellowship.
+I am a high school and middle school teacher and tutor with over 1,500 hours of face-to-face work with students. My background includes teaching undergraduate-level math and teaching and curriculum development for middle and high school math, reading, and writing. I have over four years of remote teaching and tutoring experience. I hold a B.A. in mathematics from Williams College, where I was the recipient of the Wyskiel Mathematics Teaching Award and a Williams Archives History Research Fellowship.
 
 ## Standardized Test Prep
 I have hundreds of hours of experience coaching for standardized tests including the following:
-- College admissions tests: SAT and ACT, with extensive experience on the **new digital SAT**
+- College admissions tests: SAT and ACT, including extensive experience on the **new digital SAT**
 - High school entrance exams (ISEE, SSAT, HSPT, Chicago Public Schools HSAT)
 
 My students have gone on to attend numerous selective high schools, colleges, and universities.
