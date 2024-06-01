@@ -11,7 +11,7 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
   <img src="./assets/img/spencer_brooks_portrait.png"/>
 </p>
 
-_I am currently accepting new students for Summer 2024 (May-August). Please contact me by email if you would like to inquire about tutoring for the summer or any future term._
+_I am currently accepting new students for Summer 2024 (June-August). Please contact me by email if you would like to inquire about tutoring for the summer or any future term._
 
 I am a high school and middle school teacher and tutor with over 1,500 hours of face-to-face work with students. My background includes teaching undergraduate-level math and teaching and curriculum development for middle and high school math, reading, and writing. I have over four years of remote teaching and tutoring experience. I hold a B.A. in mathematics from Williams College, where I was the recipient of the Wyskiel Mathematics Teaching Award and a Williams Archives History Research Fellowship.
 
@@ -27,10 +27,10 @@ My students have gone on to attend numerous selective high schools, colleges, an
 ## Curricular Subject Support
 I have hundreds of combined hours of experience coaching the following subjects at the middle school, high school, and college level:
 - Algebra I, Geometry, Algebra II, Precalculus, Calculus (including AP Calculus, AB and BC), AP Statistics, Multivariable Calculus, Linear Algebra, and Discrete Mathematics
-- Physics (including AP)
-- History and English writing (including AP History and English)
-- Biology and Chemistry
+- Physics (including AP), Biology and Chemistry
+- History and English (including AP English Language, AP English Literature, and a variety of AP History courses)
 - Latin (including AP)
+- Expository writing at the middle school, high school, and college level
 
 ## Competitions
 I have over one hundred hours of experience coaching for the following types of competitions. My students have gone on to place at the local, regional, and state level in a variety of competitions.
