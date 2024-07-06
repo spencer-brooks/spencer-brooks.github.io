@@ -15,7 +15,7 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 - B.A. in Mathematics from Williams College
 - TA for two math courses at Williams College
 - Wyskiel Mathematics Teaching Award (given to one graduating senior)
-- Graduate of the selective Williams-Exeter Programme at Oxford, with specialization in history and mathematics
+- Selected for year-long Williams-Exeter Programme at Oxford University, focusing on history and mathematics
 - Hundreds of hours of experience as a high school classroom teacher
 - Over four years of remote teaching and tutoring
 - 1,500 hours of face-to-face work with students in grades 6-12 and college
@@ -23,9 +23,14 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 ---
 
 ## Standardized Test Prep
-I tutor for **all sections** of standardized tests including the following:
-- College admissions tests: PSAT/NMSQT, SAT and ACT, including extensive experience on the **new digital SAT**
-- Middle school and high school entrance exams (ISEE/SSAT -- middle and upper level/grades 6-11, HSPT for Catholic schools, Chicago Public Schools HSAT)
+I tutor for **all sections** of standardized tests, including the following:
+- College admissions tests
+  - PSAT/NMSQT
+  - SAT and ACT, including extensive experience on the **new digital SAT**
+- Middle school and high school entrance exams
+  - ISEE/SSAT -- middle and upper level/grades 6-11
+  - HSPT for Catholic schools
+  - Chicago Public Schools HSAT
 
 My students have gone on to attend numerous selective high schools, colleges, and universities.
 
