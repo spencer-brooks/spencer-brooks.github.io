@@ -13,8 +13,8 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 
 ## Background and Credentials
 - B.A. in Mathematics from Williams College
-- TA for two courses in the Williams Mathematics Department
-- Recipient of the Wyskiel Mathematics Teaching Award given to one graduating senior
+- TA for two math courses at Williams College
+- Wyskiel Mathematics Teaching Award (given to one graduating senior)
 - Graduate of the selective Williams-Exeter Programme at Oxford, with specialization in history and mathematics
 - Hundreds of hours of experience as a high school classroom teacher
 - Over four years of remote teaching and tutoring
