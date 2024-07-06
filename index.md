@@ -24,11 +24,11 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 
 ## Standardized Test Prep
 I tutor for **all sections** of standardized tests, including the following:
-- College admissions tests
-  - PSAT/NMSQT
-  - SAT and ACT, including extensive experience on the **new digital SAT**
-- Middle school and high school entrance exams
-  - ISEE/SSAT -- middle and upper level/grades 6-11
+- College admissions tests (including extensive experience on the **new digital SAT**)
+  - PSAT/NMSQT -- for National Merit Scholarship qualification
+  - SAT and ACT
+- Middle-school and high-school entrance exams
+  - ISEE and SSAT -- middle and upper-level/grades 6-11
   - HSPT for Catholic schools
   - Chicago Public Schools HSAT
 
@@ -36,8 +36,8 @@ My students have gone on to attend numerous selective high schools, colleges, an
 
 ## Curricular Subject Support
 I coach the following subjects:
-- Middle school math, Algebra I & II, Geometry, Precalculus, Calculus (including AP Calculus, AB and BC), AP Statistics, Multivariable Calculus, Linear Algebra, and Discrete Mathematics
-- English, including high school English, AP English Language, AP English Literature, expository writing for middle school through college, and essay competitions
+- Middle-school math, Algebra I & II, Geometry, Precalculus, Calculus (including AP Calculus, AB and BC), AP Statistics, Multivariable Calculus, Linear Algebra, and Discrete Mathematics
+- English, including high-school English, AP English Language, AP English Literature, expository writing for middle school through college, and essay competitions
 - History, including AP US History, AP European History, and AP World History
 - Latin (including AP)
 - Physics (including AP)
