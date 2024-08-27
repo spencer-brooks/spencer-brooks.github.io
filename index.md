@@ -34,7 +34,7 @@ I tutor for **all sections** of standardized tests, including the following:
 
 My students have gone on to attend numerous selective high schools, colleges, and universities.
 
-## Skill Areas and Curricular Subject Support
+## Skill Areas, Curricular Planning, and Curricular Subject Support
 I coach the following subjects:
 - Middle-school math, Algebra I & II, Geometry, Precalculus, Calculus (including AP Calculus, AB and BC), AP Statistics, Multivariable Calculus, Linear Algebra, and Discrete Mathematics
 - English
@@ -47,7 +47,14 @@ I coach the following subjects:
 - Biology and Chemistry
 - Programming and Computer Science
 
-I also advise students on high school course selection and planning, especially in math and science.
+I also advise students on high school course selection and planning. I can provide detailed advice for math and science, especially tracking for AP courses, starting in 6th-9th grade. This curricular planning support is available for middle and high-schoolers in the following areas:
+- English
+- Mathematics
+- Science
+- Social Studies/History
+- Second Language: Preparation for AP
+- Computer Science
+
 
 ## Competitions
 I coach students for the following types of competitions. My students have placed at the local, regional, and state level in a variety of competitions.
@@ -64,6 +71,12 @@ _**From the parent of a middle schooler**: Thank you Spencer for all of your wor
 
 _**From nationally acclaimed mathematics educator Faye Ruopp**: I am delighted to recommend Spencer Brooks as a high school mathematics tutor.  I was the mathematics coach in the school he taught after he graduated from Williams College as a math major. I have consulted with dozens of schools in MA, and I rarely see teachers with such strength in their mathematical backgrounds. In the lessons I have observed Spencer teach, **I have found him to be thoughtful and insightful, managing to attract even the most reluctant learners.  It is clear that he spends hours to prepare, constantly considering the learners of varied backgrounds in front of him.** Students love working with him, and often seek him out for help. Moreover, he can challenge the most advanced students while simultaneously thinking of the needs of those he anticipates will struggle. **He cares deeply about each of his individual students, and he makes a supreme effort to get to know them and figure out what makes them “tick.”**  For these reasons, I would highly recommend him as a tutor for any high school student, both for those who need enrichment and those who need reinforcement._
 
-I am currently accepting new students for Summer 2024 (July-August). In late July, I will open my schedule for new students in September-December. Please email me if you would like to inquire about tutoring.
+---
+
+## My Approach
+
+
+
+I am currently accepting new students for Fall 2024 (September-December). Please email me if you would like to inquire about tutoring.
 
 Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
