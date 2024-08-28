@@ -75,7 +75,35 @@ _**From nationally acclaimed mathematics educator Faye Ruopp**: I am delighted t
 
 ## My Approach
 
+I begin my one-on-one work by understanding each student’s personal starting point. By taking into account what students already know, I can present material in a way that is accessible to them, scaffolding academic and personal growth. I encourage my students to embrace the process and challenges of learning (including developing good work habits), placing less emphasis on outcomes like grades and test scores.
 
+I am also keenly aware that empathy is an underappreciated and often-missing ingredient in the classroom. It is important for students to be comfortable asking questions and making mistakes. In such an environment, students can better develop self-advocacy skills that will serve them throughout middle school, high school, college, and beyond.
+
+To help my students learn the best that they can, I utilize the following two broad “steps” in working on a concept with a student:
+
+### Explore
+First, I **explore** a concept with a student, encouraging them to take the lead in solving a problem and asking probing questions to help them make progress. This step has several benefits for building deep, durable conceptual understanding. Students:
+- Wrestle with challenging concepts **outside the pressure of the classroom**
+- **Draw on prior knowledge** to generate a solution with scaffolding from me; when I provide new ideas, it builds on what students already know
+- Explore multiple ways of solving a problem, building **resilience to reattempt questions** if the first attempt doesn’t work
+- May fail to answer correctly, which, although it may seem counterintuitive, studies have shown **creates the preconditions for deep, durable encoding of knowledge** when the correct method is learned
+- Reflect on their own knowledge and **identify new techniques and concepts** that they can use to solve the problem or solve it more efficiently, building on their existing knowledge
+- Must **slow down** and reject easy, surface-level learning in favor of developing deep understanding, even though it’s more effortful
+
+### Consolidate and Master
+Then, we discuss suggested methods, connecting our discussion back to what the student already knows. I assign practice work for the student to complete at home, and we go over the practice work in our next session. The goal of this step is for students to encode new information, **consolidate** their knowledge, and **master** a concept. Students:
+- Learn new techniques and concepts in ways that **build on existing knowledge**
+- Typically practice a concept over four or more separate sessions with me and on their own, allowing students to engage in **effortful, spaced practice**, which studies have shown is most effective at creating deep, durable understanding
+- Spend the **majority of time in sessions on the hardest problems** to tease out conceptual misunderstandings, provide enrichment, and ensure learning is always happening
+- Discuss with me **how a concept could appear on a classroom or standardized test**
+- Continue to wrestle with challenging ideas, testing **different ways of solving problems** or approaching a question over several tutoring and/or study sessions
+
+At all stages, students are encouraged to:
+- **Ask questions**: every question that is aimed at clearing up a misunderstanding or developing a deeper understanding is fair game; there are no “silly” questions
+- **Take responsibility** for their learning by showing up prepared, being an equal participant in discussion, setting goals for with me, and acknowledging when they fall short of the goals we set together
+- **Be creative**: anything a student wants to try to solve a problem or consider as an option is worth trying; it’s my job to help students understand why some methods work better than others
+- **Embrace the process**: effortful learning can be discouraging when results don’t come right away, but it’s important to recognize that even in the most discouraging moments, learning is taking place
+- **Take pride in their effort and accomplishments**: I believe that it is increasingly important for students to learn to validate themselves for their hard work while taking responsibility for the learning that is yet to come
 
 I am currently accepting new students for Fall 2024 (September-December). Please email me if you would like to inquire about tutoring.
 
