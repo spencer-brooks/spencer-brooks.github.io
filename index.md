@@ -12,6 +12,7 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 </p>
 
 ## Background and Credentials
+- In progress: M.S. in Computational Linguistics at the University of Washington
 - B.A. in Mathematics from Williams College
 - TA for two math courses at Williams College
 - Wyskiel Mathematics Teaching Award (given to one graduating senior)
@@ -105,6 +106,6 @@ At all stages, students are encouraged to:
 - **Embrace the process**: effortful learning can be discouraging when results don’t come right away, but it’s important to recognize that even in the most discouraging moments, learning is taking place
 - **Take pride in their effort and accomplishments**: I believe that it is increasingly important for students to learn to validate themselves for their hard work while taking responsibility for the learning that is yet to come
 
-I am currently accepting new students for Fall 2024 (September-December). Please email me if you would like to inquire about tutoring.
+[//]: <> I am currently accepting new students for Fall 2024 (September-December). Please email me if you would like to inquire about tutoring.
 
 Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
