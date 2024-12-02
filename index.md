@@ -106,6 +106,6 @@ At all stages, students are encouraged to:
 - **Embrace the process**: effortful learning can be discouraging when results don’t come right away, but it’s important to recognize that even in the most discouraging moments, learning is taking place
 - **Take pride in their effort and accomplishments**: I believe that it is increasingly important for students to learn to validate themselves for their hard work while taking responsibility for the learning that is yet to come
 
-My schedule is full for Winter 2025. Please email me if you would like to inquire about tutoring for Spring (March-June) and beyond.
+My schedule is full for Winter 2025. Please email me if you would like to inquire about tutoring for Spring 2025 (March-June) and beyond.
 
 Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
