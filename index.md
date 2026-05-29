@@ -37,7 +37,9 @@ My students have gone on to attend numerous selective high schools, colleges, an
 
 ## Skill Areas, Curricular Planning, and Curricular Subject Support
 I teach the following subjects:
-- Middle-school math, Algebra I & II, Geometry, Precalculus, Calculus (including AP Calculus, AB and BC), AP Statistics, Multivariable Calculus, Linear Algebra, and Discrete Mathematics
+- Mathematics
+  - Middle-school math, Algebra I & II, Geometry, Precalculus
+  - Calculus (including AP Calculus, AB and BC), AP Statistics, Multivariable Calculus, Linear Algebra, and Discrete Mathematics
 - English
   - High-school English, AP English Language, AP English Literature
   - Critical reading skills, grammar, and vocabulary
