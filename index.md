@@ -78,10 +78,10 @@ _**From nationally acclaimed mathematics educator Faye Ruopp**: I am delighted t
 ## My Approach
 
 The core aspects of my approach include:
-- Individualized curriculum: By taking into account what students already know, I present material in a way that is accessible to students, scaffolding academic and personal growth.
-- Growth mindset: I encourage my students to embrace the process and challenges of learning and develop good work habits, and I place less emphasis on outcomes like grades and test scores.
-- Empathy: Empathy with students is critical to create the rapport needed for effective learning. It is important for students to be comfortable asking questions and making mistakes: students who build strong relationships with  educators learn to practice self-advocacy skills that will serve them throughout middle school, high school, college, and beyond.
-- Process: When learning new concepts, learning proceeds in two steps, explorations and consolidation/mastery.
+- **Individualized curriculum**: By taking into account what students already know, I present material in a way that is accessible to students, scaffolding academic and personal growth.
+- **Growth mindset**: I encourage my students to embrace the process and challenges of learning and develop good work habits, and I place less emphasis on outcomes like grades and test scores.
+- **Empathy**: Empathy with students is critical to create the rapport needed for effective learning. It is important for students to be comfortable asking questions and making mistakes: students who build strong relationships with  educators learn to practice self-advocacy skills that will serve them throughout middle school, high school, college, and beyond.
+- **Process**: When learning new concepts, learning proceeds in two steps, explorations and consolidation/mastery.
 
 ### Explore
 First, I **explore** a concept with a student, encouraging them to take the lead in solving a problem and asking probing questions to guide their progress. Exploration helps build deep, durable understanding. Students:
@@ -100,10 +100,10 @@ Then, we review methods, connecting our discussion back to what the student alre
 - Continue reviewing over weeks and months to maintain learning over time
 
 At all stages, students are encouraged to:
-- Ask questions: every question that is aimed at clearing up a misunderstanding or developing a deeper understanding is fair game; there are no “silly” questions
-- Take responsibility for their learning by showing up prepared, being an equal participant in discussion, setting goals for with me, and acknowledging when they fall short of the goals we set together
-- Be creative: anything a student wants to try to solve a problem or consider as an option is worth trying; it’s my job to help students understand why some methods work better than others
-- Embrace the process: effortful learning can be discouraging when results don’t come right away, but even in the most discouraging moments, learning is taking place
+- **Ask questions**: questions help students clear up misunderstandings and develop deeper understanding; there are no “silly” questions
+- **Take responsibility** for their learning by showing up prepared, being an equal participant in discussion, setting goals for with me, and acknowledging when they fall short of the goals we set together
+- **Be creative**: anything a student wants to try to solve a problem or consider as an option is worth considering; it’s my job to help students understand why some methods work better than others
+- **Embrace the process**: effortful learning can be discouraging when results don’t come right away, but even in the most discouraging moments, learning is taking place
 
 I am accepting new students starting in June 2026. Please contact me by email if you are interested in tutoring or have any questions.
 
