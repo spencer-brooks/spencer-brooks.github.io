@@ -19,13 +19,13 @@ Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
 - Selected for year-long Williams-Exeter Programme at Oxford University, focusing on history and mathematics
 - Hundreds of hours of experience as a high school classroom teacher
 - Over five years of remote teaching and tutoring
-- More than 2,100 hours of face-to-face work with students in grades 4-12 and college
+- More than 2,200 hours of face-to-face work with students in grades 4-12, college, and adults
 
 ---
 
 ## Standardized Test Prep
 I tutor for **all sections** of standardized tests, including the following:
-- College admissions tests (including extensive experience on the **new digital SAT**)
+- College admissions tests (including extensive experience on the new digital SAT)
   - PSAT/NMSQT -- for National Merit Scholarship qualification
   - SAT and ACT
 - Middle-school and high-school entrance exams
@@ -48,16 +48,17 @@ I teach the following subjects:
 - Latin (including AP)
 - Physics (including AP)
 - Biology and Chemistry
+- Linguistics, including Syntax, Semantics, and Phonetics
 - Programming and Computer Science
-- Linguistics
 
-I also advise students on high school course selection and planning. I can provide detailed advice for math and science, especially tracking for AP courses, starting in 6th-9th grade. This curricular planning support is available for middle and high-schoolers in the following areas:
+I also advise students on high school course selection and planning. I can provide detailed advice, especially for math and science, starting in 6th-9th grade. Curricular planning support is available for middle and high-schoolers in the following areas:
 - English
 - Mathematics
 - Science
 - Social Studies/History
-- Second Language: Preparation for AP
+- Second Language
 - Computer Science
+- Tracking for AP courses
 
 
 ## Competitions
@@ -80,10 +81,10 @@ _**From nationally acclaimed mathematics educator Faye Ruopp**: I am delighted t
 ## My Approach
 
 The core aspects of my approach include:
-- **Individualized curriculum**: By taking into account what students already know, I present material in a way that is accessible to students, scaffolding academic and personal growth.
-- **Growth mindset**: I encourage my students to embrace the process and challenges of learning and develop good work habits, and I place less emphasis on outcomes like grades and test scores.
-- **Empathy**: Empathy with students is critical to create the rapport needed for effective learning. It is important for students to be comfortable asking questions and making mistakes: students who build strong relationships with  educators learn to practice self-advocacy skills that will serve them throughout middle school, high school, college, and beyond.
-- **Process**: When learning new concepts, learning proceeds in two steps, explorations and consolidation/mastery.
+- **Individualized curriculum**: I take into account what students already know, present material in a way that is accessible to students, and scaffold academic and personal growth.
+- **Growth mindset**: I encourage my students to wrestle with the challenges of learning, placing less emphasis on grades and test scores.
+- **Rapport**: My students and I build the rapport needed for effective learning. It is important for students to be comfortable asking questions and making mistakes: students who build strong relationships with  educators learn to practice self-advocacy skills that will serve them throughout their education and beyond.
+- **Process**: Evidence-based practice based on learning science is the foundation of my teaching process.
 
 ### Explore
 First, I **explore** a concept with a student, encouraging them to take the lead in solving a problem and asking probing questions to guide their progress. Exploration helps build deep, durable understanding. Students:
@@ -102,11 +103,11 @@ Then, we review methods, connecting our discussion back to what the student alre
 - Continue reviewing over weeks and months to maintain learning over time
 
 At all stages, students are encouraged to:
-- **Ask questions**: questions help students clear up misunderstandings and develop deeper understanding; there are no “silly” questions
-- **Take responsibility** for their learning by showing up prepared, being an equal participant in discussion, setting goals for with me, and acknowledging when they fall short of the goals we set together
-- **Be creative**: anything a student wants to try to solve a problem or consider as an option is worth considering; it’s my job to help students understand why some methods work better than others
-- **Embrace the process**: effortful learning can be discouraging when results don’t come right away, but even in the most discouraging moments, learning is taking place
+- **Ask questions**: questions help students develop deeper understanding--there are no “silly” questions
+- **Take responsibility** for their learning by showing up prepared, being an equal participant in discussion, and setting and working toward goals with me
+- **Be creative**: anything a student wants to try to solve a problem is worth considering, later, I help students understand why some methods work better than others
+- **Embrace the process**: effortful learning requires trying and failing; LLM chatbots are never part of the learning process with K-12 students
 
-I am accepting new students starting in June 2026. Please contact me by email if you are interested in tutoring or have any questions.
+I am accepting new students for Fall 2026. Please contact me by email if you are interested in tutoring or have any questions.
 
 Email: [spencer.brooks0119@gmail.com](mailto:spencer.brooks0119@gmail.com)
