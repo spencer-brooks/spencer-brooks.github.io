@@ -92,7 +92,7 @@ Core aspects of my approach include:
   - Continue reviewing over weeks and months to maintain learning over time
 
 At all stages, students are encouraged to:
-- **Embrace the process**: Effortful learning requires trying and failing.
+- **Embrace the process**, slowing down, engaging effortfully, and rejecting easy, surface-level learning in favor of developing deep understanding.
 - **Ask questions**: Questions help students develop deeper understanding--there are no “silly” questions.
 - **Take responsibility** for their learning by showing up prepared, being an equal participant in discussion, and setting and working toward goals with me.
 - **Be creative**: Anything a student wants to try to solve a problem is worth considering; later, I help students understand why some methods work better than others.
