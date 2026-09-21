@@ -80,33 +80,22 @@ _**From nationally acclaimed mathematics educator Faye Ruopp**: I am delighted t
 
 ## My Approach
 
-The core aspects of my approach include:
-- **Individualized curriculum**: I take into account what students already know, present material in a way that is accessible to students, and scaffold academic and personal growth.
-- **Growth mindset**: I encourage my students to wrestle with the challenges of learning, placing less emphasis on grades and test scores.
-- **Rapport**: My students and I build the rapport needed for effective learning. It is important for students to be comfortable asking questions and making mistakes: students who build strong relationships with  educators learn to practice self-advocacy skills that will serve them throughout their education and beyond.
-- **Process**: Evidence-based practice based on learning science is the foundation of my teaching process.
-
-### Explore
-First, I **explore** a concept with a student, encouraging them to take the lead in solving a problem and asking probing questions to guide their progress. Exploration helps build deep, durable understanding. Students:
-- Wrestle with challenging concepts outside the pressure of the classroom
-- Build on what they already know to generate a solution with scaffolding from me
-- Explore multiple ways of solving a problem, building resilience if their first attempt doesn’t work and creating the preconditions for deep, durable encoding of knowledge when the correct method is learned
-- Identify new techniques and concepts that they can use to solve problems more fluently, building on existing knowledge
-- Slow down, engage effortfully, and reject easy, surface-level learning in favor of developing deep understanding
-
-### Consolidate and Master
-Then, we review methods, connecting our discussion back to what the student already knows. I assign practice work for the student to complete at home, and we go over the practice work in our next session. Students encode new information, **consolidate** their knowledge, and **master** a concept. Together, we:
-- Focus on questions in the zone of proximal development to ensure learning feels fruitful and bring conceptual misunderstandings to the surface
-- Typically practice a concept over several sessions with me and on their own, allowing students to engage in spaced practice, which studies show is most effective at creating deep, durable understanding
-- Brainstorm how a concept could appear on a classroom or standardized test
-- Build fluency by exploring harder problems and connections to other concepts
-- Continue reviewing over weeks and months to maintain learning over time
+Core aspects of my approach include:
+- **Individualized curriculum**: I scaffold academic growth, connecting curriculum to what students already know and making new ideas accessible.
+- **Growth mindset**: I encourage my students to wrestle with the challenges of learning, placing less emphasis on grades and test scores and more on personal growth and content mastery. Students learn to be comfortable asking questions and making mistakes.
+- **Rapport**: High-pressure classroom environments can cause distress and anxiety about learning. My students and I build the rapport needed for effective learning, working together to create a safe and comfortable learning environment while building resilience and self-advocacy skills.
+- **Process**: Evidence-based practice and learning science methods build deep, durable encoding of knowledge and skills. LLM chatbots are never part of the learning process with K-12 students. We:
+  - Focus on questions in the zone of proximal development to ensure learning feels fruitful and bring conceptual misunderstandings to the surface
+  - Typically practice a concept over several sessions, a form of spaced practice, which studies show is effective at creating deep, durable understanding
+  - Brainstorm how a concept could appear on a classroom assessment or standardized test
+  - Build fluency by exploring harder problems and connections to other concepts
+  - Continue reviewing over weeks and months to maintain learning over time
 
 At all stages, students are encouraged to:
-- **Ask questions**: questions help students develop deeper understanding--there are no “silly” questions
-- **Take responsibility** for their learning by showing up prepared, being an equal participant in discussion, and setting and working toward goals with me
-- **Be creative**: anything a student wants to try to solve a problem is worth considering, later, I help students understand why some methods work better than others
-- **Embrace the process**: effortful learning requires trying and failing; LLM chatbots are never part of the learning process with K-12 students
+- **Embrace the process**: Effortful learning requires trying and failing.
+- **Ask questions**: Questions help students develop deeper understanding--there are no “silly” questions.
+- **Take responsibility** for their learning by showing up prepared, being an equal participant in discussion, and setting and working toward goals with me.
+- **Be creative**: Anything a student wants to try to solve a problem is worth considering; later, I help students understand why some methods work better than others.
 
 I am accepting new students for Fall 2026. Please contact me by email if you are interested in tutoring or have any questions.
 
